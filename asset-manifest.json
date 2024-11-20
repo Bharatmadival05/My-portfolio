@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bharatmadival05/My-portfolio/static/css/main.09de7f15.css",
+    "main.js": "/Bharatmadival05/My-portfolio/static/js/main.56c204db.js",
+    "static/media/bharat4.png": "/Bharatmadival05/My-portfolio/static/media/bharat4.b2404cd3f7857bb4ecdd.png",
+    "static/media/work-1.png": "/Bharatmadival05/My-portfolio/static/media/work-1.9d70c2239b9cefe78a18.png",
+    "static/media/work-2.png": "/Bharatmadival05/My-portfolio/static/media/work-2.893b3d33cde47ed0012c.png",
+    "static/media/work-3.png": "/Bharatmadival05/My-portfolio/static/media/work-3.de1df78bf5ca74ec3063.png",
+    "static/media/bharat11.png": "/Bharatmadival05/My-portfolio/static/media/bharat11.259444a4d925c5b4f9b6.png",
+    "static/media/profile.png": "/Bharatmadival05/My-portfolio/static/media/profile.3391adf8113bd345d6c5.png",
+    "static/media/Bharat Madival resume.pdf": "/Bharatmadival05/My-portfolio/static/media/Bharat Madival resume.7c9b09f7da0b52140345.pdf",
+    "index.html": "/Bharatmadival05/My-portfolio/index.html",
+    "main.09de7f15.css.map": "/Bharatmadival05/My-portfolio/static/css/main.09de7f15.css.map",
+    "main.56c204db.js.map": "/Bharatmadival05/My-portfolio/static/js/main.56c204db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09de7f15.css",
+    "static/js/main.56c204db.js"
+  ]
+}
