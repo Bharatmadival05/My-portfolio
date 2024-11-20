@@ -1,4 +1,4 @@
-import mycv from '../assets/Bharat Madival CSE.pdf'
+import mycv from '../assets/Bharat Madival resume.pdf'
 import React, { useEffect } from 'react';
 
 export default function Contact() {

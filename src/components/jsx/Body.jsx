@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Link as ScrollLink, animateScroll as scroll } from 'react-scroll';
+import { Link as ScrollLink} from 'react-scroll';
 
 export default function Body() {
   const [isSideMenuOpen, setSideMenuOpen] = useState(false);

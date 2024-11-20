@@ -13,7 +13,20 @@ body{
   height: 1100px;
   background-image: url(../assets/bharat11.png);
   background-position: center;
+  animation: slideRightToLeft 1s linear;
 }
+
+
+
+@keyframes slideRightToLeft {
+  0% {
+    background-position: 60% center;
+  }
+  100% {
+    background-position: 50% center;
+  }
+}
+
 .container{
   padding: 10px 10%;
 }
@@ -371,7 +384,7 @@ nav .fas{
   color: #ff004f;
 }
 
-@media only screen and (max-width:650px){
+@media only screen and (max-width:420px){
   #header{
     background-image: url(../assets/bharat4.png);
     height: 150vh;
